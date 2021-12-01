@@ -1,0 +1,13 @@
+{
+  "name": "CoreSwift",
+  "overview": "CoreSwift packages. More at www.coreswift.dev",
+  "keywords": ["Service Locator", "Dependency Injection"],
+  "packages": [
+    {
+      "url": "https://github.com/CoreSwift/ServiceLocator.git",
+    },
+  ],
+  "author": {
+    "name": "The CoreSwift Authors"
+  }
+}
